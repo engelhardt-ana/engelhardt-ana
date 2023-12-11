@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hi there! I'm Anastasia Engelhardt
+As a passionate QA Automation Engineer, I bring a robust skill set in Java, JavaScript, and Selenium, combined with extensive experience in both manual and automation testing for web and mobile applications.
 
-<!--
-**engelhardt-ana/engelhardt-ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 What I Do:
 
-Here are some ideas to get you started:
+Develop and implement automated testing solutions to streamline processes and enhance product quality.
+Expertise in writing clean, efficient test scripts in Java and JavaScript, leveraging the power of Selenium for robust automation.
+Perform meticulous manual testing, ensuring comprehensive coverage and attention to detail.
+Continuously update my skill set to stay ahead in the fast-evolving landscape of QA and software development.
+💻 My Experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2+ years of hands-on experience in QA automation and manual testing.
+Proven track record in both web and mobile application testing, delivering quality-assured products in a range of industries.
+Adept at identifying and rectifying bottlenecks, optimizing performance, and ensuring user-centric functionality.
+
+🎤 Beyond Coding:
+A seasoned public speaker, I enjoy sharing insights and learnings with the community, contributing to tech talks, and participating in seminars.
+Passionate about mentoring and guiding aspiring QA professionals, fostering a culture of knowledge sharing and continuous learning.
+
+🌐 Let's Connect:
+Feel free to reach out to me for collaborations, speaking engagements, or just a friendly chat about the world of quality assurance and automation testing!
