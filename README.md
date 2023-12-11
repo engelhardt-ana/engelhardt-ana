@@ -2,7 +2,6 @@
 As a passionate QA Automation Engineer, I bring a robust skill set in Java, JavaScript, and Selenium, combined with extensive experience in both manual and automation testing for web and mobile applications.
 
 🔍 What I Do:
-
 Develop and implement automated testing solutions to streamline processes and enhance product quality.
 Expertise in writing clean, efficient test scripts in Java and JavaScript, leveraging the power of Selenium for robust automation.
 Perform meticulous manual testing, ensuring comprehensive coverage and attention to detail.
