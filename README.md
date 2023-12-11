@@ -7,8 +7,8 @@ Develop and implement automated testing solutions to streamline processes and en
 Expertise in writing clean, efficient test scripts in Java and JavaScript, leveraging the power of Selenium for robust automation.
 Perform meticulous manual testing, ensuring comprehensive coverage and attention to detail.
 Continuously update my skill set to stay ahead in the fast-evolving landscape of QA and software development.
-💻 My Experience:
 
+💻 My Experience:
 2+ years of hands-on experience in QA automation and manual testing.
 Proven track record in both web and mobile application testing, delivering quality-assured products in a range of industries.
 Adept at identifying and rectifying bottlenecks, optimizing performance, and ensuring user-centric functionality.
