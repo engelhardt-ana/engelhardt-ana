@@ -1,5 +1,5 @@
 👋 Hi there! I'm Anastasia Engelhardt
-As a passionate QA Automation Engineer, I bring a robust skill set in Java, JavaScript, and Selenium, combined with extensive experience in both manual and automation testing for web and mobile applications.
+As a passionate QA Automation Engineer, I bring a robust skill set in Java, JavaScript,C# and Selenium, combined with extensive experience in both manual and automation testing for web and mobile applications.
 
 🔍 What I Do:
 Develop and implement automated testing solutions to streamline processes and enhance product quality.
