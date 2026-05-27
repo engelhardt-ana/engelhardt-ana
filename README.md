@@ -1,20 +1,18 @@
 👋 Hi there! I'm Anastasia Engelhardt
-As a passionate QA Automation Engineer, I bring a robust skill set in Java, JavaScript,C# and Selenium, combined with extensive experience in both manual and automation testing for web and mobile applications.
 
-🔍 What I Do:
-Develop and implement automated testing solutions to streamline processes and enhance product quality.
-Expertise in writing clean, efficient test scripts in Java and JavaScript, leveraging the power of Selenium for robust automation.
-Perform meticulous manual testing, ensuring comprehensive coverage and attention to detail.
-Continuously update my skill set to stay ahead in the fast-evolving landscape of QA and software development.
+I'm a QA Engineer with 5 years of experience, tech creator, and speaker focused on software testing, QA processes, and the future of AI in testing.
 
-💻 My Experience:
-3+ years of hands-on experience in QA automation and manual testing.
-Proven track record in both web and mobile application testing, delivering quality-assured products in a range of industries.
-Adept at identifying and rectifying bottlenecks, optimizing performance, and ensuring user-centric functionality.
+My background includes manual testing, web and mobile testing, test documentation, QA education, and automation basics with Java, JavaScript, Playwright and Selenium.
 
-🎤 Beyond Coding:
-A seasoned public speaker, I enjoy sharing insights and learnings with the community, contributing to tech talks, and participating in seminars.
-Passionate about mentoring and guiding aspiring QA professionals, fostering a culture of knowledge sharing and continuous learning.
+Currently, I am focusing more on:
 
-🌐 Let's Connect:
-Feel free to reach out to me for collaborations, speaking engagements, or just a friendly chat about the world of quality assurance and automation testing!
+- AI in QA
+- AI-assisted testing workflows
+- Testing AI-powered products
+- Playwright 
+
+I am especially interested in how AI can support testers in documentation analysis, test idea generation, edge case discovery, risk analysis, and better decision-making — while still keeping human QA judgment at the center.
+
+Beyond testing, I am also active as a public speaker, tech creator, mentor, and community organizer. I create content about QA, IT careers, AI, women in tech, and sustainable professional growth.
+
+Feel free to connect with me for QA, AI in testing, speaking opportunities, or community collaborations.
