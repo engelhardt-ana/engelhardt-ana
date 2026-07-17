@@ -1,4 +1,4 @@
-👋 Hi there! I'm Anastasia Engelhardt
+👋 Hi there! I'm Anastasija Engeljgardt!
 
 I'm a QA Engineer with 5 years of experience, tech creator, and speaker focused on software testing, QA processes, and the future of AI in testing.
 
