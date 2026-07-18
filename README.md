@@ -9,7 +9,6 @@ Currently, I am focusing more on:
 - AI in QA
 - AI-assisted testing workflows
 - Testing AI-powered products
-- Playwright 
 
 I am especially interested in how AI can support testers in documentation analysis, test idea generation, edge case discovery, risk analysis, and better decision-making — while still keeping human QA judgment at the center.
 
